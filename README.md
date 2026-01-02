@@ -8,6 +8,11 @@ Built using Triplet Network, FAISS vector search, GPU acceleration, and Streamli
 
 👉 https://imagesimilarity-21.streamlit.app/
 
+## 🎥 Project Demo
+
+[▶ Watch Full Demo](https://drive.google.com/file/d/1ZlTBxIH45b0xpTjNCQnMQY-vLpDTKT1A/view)
+
+
 ### 🧠 Key Features
 
 • Deep learning image embeddings using ResNet50 Triplet Network
