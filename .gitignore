@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+training/data/
+*.zip
+*.json
+.DS_Store
+.ipynb_checkpoints/
+.idea/
+.pycharm/
+tools/client_secrets.json
+tools/credentials.json
