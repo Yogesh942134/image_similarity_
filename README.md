@@ -15,13 +15,13 @@ Built using Triplet Network, FAISS vector search, GPU acceleration, and Streamli
 
 ### 🧠 Key Features
 
-- • Deep learning image embeddings using ResNet50 Triplet Network
-- • Batch Hard mining for high accuracy similarity learning
-- • Recall@K evaluation pipeline
-- • FAISS GPU accelerated vector indexing
-- • Google Drive CDN based massive dataset hosting
-- • Streamlit based web interface
-- • Scales to 50K+ fashion images
+-  Deep learning image embeddings using ResNet50 Triplet Network
+-  Batch Hard mining for high accuracy similarity learning
+-  Recall@K evaluation pipeline
+-  FAISS GPU accelerated vector indexing
+-  Google Drive CDN based massive dataset hosting
+-  Streamlit based web interface
+-  Scales to 50K+ fashion images
 
 ### 🏗️ System Architecture
 
@@ -140,9 +140,9 @@ Built using Triplet Network, FAISS vector search, GPU acceleration, and Streamli
 
 ### 📌 Tech Stack
 
-• PyTorch
-• FAISS
-• Streamlit
-• Google Drive API
-• ResNet50
+- PyTorch
+- FAISS
+- Streamlit
+- Google Drive API
+- ResNet50
 • CUDA
